@@ -28,19 +28,3 @@ while repeat:
     again=input("Yes for reapeating no for exit\n")
     if (again=="no"):
         repeat=False
-
-
-        
-                
-                           
-                           
-            
-                           
-                           
-                           
-    
-        
-        
-    
-    
-                       
